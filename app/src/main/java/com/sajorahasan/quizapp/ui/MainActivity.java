@@ -277,6 +277,8 @@ public class MainActivity extends AppCompatActivity implements
             Intent i = new Intent(MainActivity.this, QuizActivity.class);
             i.putExtras(bundle);
             startActivity(i);
+        } else if (data != null && data.getResponseCode() == 1) {
+            Tools.alert(MainActivity.this, "No Quiz Found", "Please try different option");
         } else {
             onFailRequest();
         }
