@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4DB151</color>
+    <color name="colorPrimaryDark">#429E45</color>
+    <color name="colorPrimaryLight">#5DBA60</color>
+    <color name="colorAccent">#FFDE26</color>
+
+    <color name="bg_app">#F1F1F1</color>
+
+    <color name="tab_unselect">#c9c9c9</color>
+    <color name="bg_btn">#dadada</color>
+
+    <color name="colorPrice">#429E45</color>
+    <color name="colorAddCart">#FFB300</color>
+    <color name="colorRemoveCart">#666666</color>
+
+    <color name="colorWarning">#FF7043</color>
+    <color name="colorInfo">#5DBA60</color>
+
+    <color name="darkOverlay">#80000000</color>
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+
+    <color name="drawerHeaderColor">#FFED87</color>
+    <color name="drawerHeaderIcon">#666666</color>
+
+    <color name="textSub">#76818a</color>
+    <color name="Tex">#404547</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+
+    <color name="colordevider">#f1f2f4</color>
+    <color name="colorbutton">#ff5254</color>
+    <color name="iconcolour">#9ba4ab</color>
+    <color name="strok">#e4e5ea</color>
+
+
+    <color name="green">#5ccc78</color>
+    <color name="red">#ea495f</color>
+    <color name="yellow">#f8d64e</color>
+    <color name="light_green">#1bac94</color>
+
+    <color name="colortext">#100b20</color>
+    <color name="colorhint">#a9aaac</color>
+</resources>
